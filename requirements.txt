@@ -2,7 +2,7 @@ streamlit
 pytesseract
 Pillow
 pillow-heif
-opencv-python
+opencv-python-headless
 pandas
 openpyxl
 pymupdf
