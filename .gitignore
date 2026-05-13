@@ -1,0 +1,5 @@
+venv/
+master.xlsx
+receipt_hashes.txt
+__pycache__/
+*.pyc
